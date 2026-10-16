@@ -1,4 +1,4 @@
-# Task 4: Logistic Regression Classification
+# Logistic Regression Classification
 
 ## Objective
 
